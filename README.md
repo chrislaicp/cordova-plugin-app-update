@@ -1,3 +1,6 @@
+This is a fork of cordova-plugin-app-update from vaenow.
+
+Mainly fix the deprecation of android.support.v4.content.FileProvider issue. 
 
 
 ![travis](https://travis-ci.org/vaenow/cordova-plugin-app-update.svg?branch=master)  
